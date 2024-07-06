@@ -5,6 +5,7 @@
    https://eblog.erickmedel.dev
 
    <br/>
+    <br/>
 
    <img src="./README_IMAGES/APP.png" alt="Example Blog" height="420px">
 </div>
